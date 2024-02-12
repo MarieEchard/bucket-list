@@ -1,0 +1,33 @@
+body {
+    min-height: 100vh;
+}
+header {
+    background-color: #A5A58D;
+}
+header a {
+    text-decoration: none;
+    color: inherit;
+}
+.header-logo img {
+    max-width: 42px;
+    margin-right: 5px;
+}
+header nav a:hover {
+    text-decoration: underline;
+}
+main {
+    background-color: #FFF1E6;
+}
+footer {
+    padding: 1.5rem 0;
+    text-align: center;
+    background-color: #EDDCD2;
+}
+
+main a {
+    color: #8c6956;
+}
+.wish-credit {
+    font-style: italic;
+    font-size: 0.9rem;
+}
